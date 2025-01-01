@@ -1,0 +1,47 @@
+body{
+    background-color: #f0f2f5 !important;
+}
+.Nav-Logo{
+    width: 80px;
+}
+
+.background-image {
+    background-image: url('../image/hero-background.jpg');
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    flex-direction: column;
+}
+
+.admin-background-image{
+    background-image: url('../image/hero-background.jpg');
+    height: 76.5vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    flex-direction: column;
+}
+
+
+/* For medium devices (tablets and small laptops) */
+@media (max-width: 1024px) {
+    .admin-background-image {
+        height: 76.5vh; /* Adjust height for medium screens */
+    }
+}
+
+/* For small devices (mobile phones) */
+@media (max-width: 768px) {
+    .admin-background-image {
+        height: 76.5vh; /* Adjust height for small screens */
+    }
+}
