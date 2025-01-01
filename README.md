@@ -6,7 +6,7 @@ Welcome to the **Creative Agency** web application! This project is a feature-ri
 The Creative Agency application enables users to browse creative services and provides an admin dashboard for managing service requests and client interactions.
 
 ### Live Website
-- [Creative Agency Website](https://creative-agency-bd-sand.vercel.app/)
+- [Creative Agency Website](https://creative-agency-bd-sand.vercel.app/) Back-end is off.
 
 ### Admin Panel
 - [Admin Login](https://creative-agency-bd-sand.vercel.app/admin/login)
